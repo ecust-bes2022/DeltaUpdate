@@ -1,0 +1,8 @@
+{
+    "SERVER": {
+        "URL": "http://127.0.0.1",
+        "PORT": 1218
+    },
+    "APP_NAME": "app",
+    "CURRENT_VERSION": "1.0.7"
+}

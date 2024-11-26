@@ -1,0 +1,96 @@
+{
+    "latest_version": "1.0.7",
+    "versions": {
+        "1.0.0": {
+            "files": [
+                "app"
+            ],
+            "md5": "xxx",
+            "description": "初始版本"
+        },
+        "1.0.1": {
+            "files": [
+                "app"
+            ],
+            "md5": "314ba01da54eb5f0cf3797e2028936c1",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.1",
+                "patch_file": "patch_1.0.1_to_1.0.1.diff",
+                "md5": "84576f15f0f619ab9980af35d4e97e26"
+            }
+        },
+        "1.0.2": {
+            "files": [
+                "app"
+            ],
+            "md5": "a5c4821513725abeffade3ba9bb45a28",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.1",
+                "patch_file": "patch_1.0.1_to_1.0.2.diff",
+                "md5": "7d51074d873dd0837e62e2d8c728f328"
+            }
+        },
+        "1.0.3": {
+            "files": [
+                "app"
+            ],
+            "md5": "c8bbbe2f560535baf7d6e0dc8233aed3",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.2",
+                "patch_file": "patch_1.0.2_to_1.0.3.diff",
+                "md5": "76502919a9353b6fe1b79d391b811b0d"
+            }
+        },
+        "1.0.4": {
+            "files": [
+                "app"
+            ],
+            "md5": "4506773c16d4ad3db4f11198f39a40d3",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.3",
+                "patch_file": "patch_1.0.3_to_1.0.4.diff",
+                "md5": "3e0627d79c3fadee8a8b59964c22f878"
+            }
+        },
+        "1.0.5": {
+            "files": [
+                "app"
+            ],
+            "md5": "4bf6e1fb5d37b631c54068ceb39b5a29",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.5",
+                "patch_file": "patch_1.0.5_to_1.0.5.diff",
+                "md5": "3ac83c3fcafc80f3de481adae2dd0cbc"
+            }
+        },
+        "1.0.6": {
+            "files": [
+                "app"
+            ],
+            "md5": "12362bd562a098924c062e7775e80f11",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.5",
+                "patch_file": "patch_1.0.5_to_1.0.6.diff",
+                "md5": "95e5ff85f53df7bdc6ba306e879219a3"
+            }
+        },
+        "1.0.7": {
+            "files": [
+                "app"
+            ],
+            "md5": "687c3f189c574e4e31817b410e3a9545",
+            "description": "初始版本",
+            "patch": {
+                "from_version": "1.0.6",
+                "patch_file": "patch_1.0.6_to_1.0.7.diff",
+                "md5": "599e23f81574e8715ad73fd0d3258a65"
+            }
+        }
+    }
+}

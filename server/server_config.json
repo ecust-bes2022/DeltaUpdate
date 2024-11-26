@@ -1,0 +1,18 @@
+{
+    "SERVER_CONFIG": {
+        "host": "0.0.0.0",
+        "port": 1218,
+        "debug": false
+    },
+    "APP_CONFIG": {
+        "version": "1.0.7",
+        "app_path": "/Users/jerry_hu/Desktop/custom/test/dist/app",
+        "description": "初始版本"
+    },
+    "DIR_CONFIG": {
+        "versions_dir": "versions",
+        "patches_dir": "patches",
+        "logs_dir": "logs",
+        "log_level": "INFO"
+    }
+} 
